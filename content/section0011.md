@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### NA DIVOU MONTAŇ ZŘEL JSEM SE ZÁPALEM

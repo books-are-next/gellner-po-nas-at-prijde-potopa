@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### TO JE TEĎ CELÁ MOUDROST MOJE

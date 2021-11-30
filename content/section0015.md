@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### PO NÁS AT PŘIJDE POTOPA!

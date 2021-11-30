@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### NÁHLE SE ZACHVĚJE MÁ DUŠE
