@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### JAKO TY POLNÍ ROSTLINY

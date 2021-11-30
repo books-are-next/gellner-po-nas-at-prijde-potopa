@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### PŘÁTELSTVÍ DUŠÍ

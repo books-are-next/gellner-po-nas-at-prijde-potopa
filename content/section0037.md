@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### EPILOG

@@ -15,7 +15,7 @@ Verze 1.0 z 07. 04. 2011.
 
 * * *
 
-![](./resources/88x31.png)  
+![](../Images/pd-88x31.png)  
 
 Text díla (František Gellner: Po nás ať přijde potopa!), publikovaného Městskou knihovnou v Praze, není vázán autorskými právy (http://creativecommons.org/publicdomain/mark/1.0/deed.cs).
 
@@ -29,7 +29,7 @@ GELLNER, František. Po nás ať přijde potopa! \[online\]. V MKP 1. vyd. Praha
 
 * * *
 
-![](./resources/88x31.png)  
+![](../Images/88x31.png)  
 
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko (http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 

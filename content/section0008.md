@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### POZDRAV RODNÉMU KRAJI

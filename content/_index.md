@@ -2,4 +2,4 @@
 {}
 ---
 
-![](./resources/obalka.jpg)![](./resources/upoutavka_eknihy.jpg)
+![](../Images/obalka.jpg)![](./resources/upoutavka_eknihy.jpg)

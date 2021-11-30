@@ -1,5 +1,5 @@
 ---
-{}
+hiddenTitle: true
 ---
 
 ### NOC BYLA TOUHOU PŘESYCENÁ
