@@ -5,7 +5,9 @@
       "identifier": "3e2ad0d3-dc62-494d-ac82-df3cf19f664e",
       "author": "František Gellner",
       "modified": "2021-11-24T07:58:23.968Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "heading_id_2",
@@ -461,7 +463,7 @@
       "title": "Po nás ať přijde potopa!",
       "identifier": "3e2ad0d3-dc62-494d-ac82-df3cf19f664e",
       "author": "František Gellner",
-      "modified": "2021-12-01T21:16:13.756Z"
+      "modified": "2021-12-01T21:59:34.355Z"
     },
     "chapters": [
       {
@@ -733,6 +735,6 @@
       "user": "books-are-next",
       "repo": "gellner-po-nas-at-prijde-potopa"
     },
-    "generatedAt": 1638393374063
+    "generatedAt": 1638395974702
   }
 }
