@@ -1,11 +1,14 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Po nás ať přijde potopa!",
       "identifier": "3e2ad0d3-dc62-494d-ac82-df3cf19f664e",
       "author": "František Gellner",
       "modified": "2021-11-24T07:58:23.968Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "heading_id_2",
@@ -737,3 +740,4 @@
     "generatedAt": 1637740704216
   }
 }
+
