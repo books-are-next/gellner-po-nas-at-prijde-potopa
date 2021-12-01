@@ -8,6 +8,8 @@ meta:
   author: František Gellner
   modified: '2021-11-24T07:58:23.968Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - section0003.html
   - section0004.html
