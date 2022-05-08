@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 ### NA DÁLNÉM JIHU SNAD

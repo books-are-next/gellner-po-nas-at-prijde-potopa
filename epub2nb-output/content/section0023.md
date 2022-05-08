@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 ### PRO KLID SVÉ DUŠE

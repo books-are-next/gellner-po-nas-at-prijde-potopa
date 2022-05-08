@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 ### NA DIVOU MONTAŇ ZŘEL JSEM SE ZÁPALEM

@@ -1,15 +1,15 @@
 {
   "author": "František Gellner",
-  "edition": "beletrie",
-  "identifier": "gellner-po-nas-at-prijde-potopa-7ef9101",
+  "edition": "",
+  "identifier": "gellner-po-nas-at-prijde-potopa-da1440c",
   "languagecode": "cs",
   "modified": "2021-11-24T07:58:23.968Z",
   "publishershort": "mkp",
   "title": "Po nás ať přijde potopa!",
-  "revision": "7ef9101",
+  "revision": "da1440c",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:00:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396022854
+    "date": "Sun May 08 2022 15:10:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652022651251
   },
   "documents": [
     {
@@ -735,9 +735,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3238,
-      "chars": 18308,
-      "ideas": 627
+      "words": 3237,
+      "chars": 18300,
+      "ideas": 626
     },
     "chapters": {
       "words": 3041,

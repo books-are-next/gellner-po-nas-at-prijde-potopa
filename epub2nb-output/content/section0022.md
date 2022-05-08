@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 ### ZÁCHVAT NERVÓZNÍ

@@ -7,7 +7,7 @@
       "modified": "2021-11-24T07:58:23.968Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": ""
     },
     "elements": {
       "title": "heading_id_2",
@@ -32,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "section0001.md",
@@ -68,8 +69,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0004.md",
@@ -79,8 +80,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0005.md",
@@ -90,8 +91,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0006.md",
@@ -101,8 +102,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0007.md",
@@ -112,8 +113,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0008.md",
@@ -123,8 +124,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0009.md",
@@ -134,8 +135,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0010.md",
@@ -145,8 +146,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0011.md",
@@ -156,8 +157,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0012.md",
@@ -167,8 +168,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0013.md",
@@ -178,8 +179,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0014.md",
@@ -189,8 +190,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0015.md",
@@ -200,8 +201,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0016.md",
@@ -211,8 +212,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0017.md",
@@ -222,8 +223,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0018.md",
@@ -233,8 +234,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0019.md",
@@ -244,8 +245,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0020.md",
@@ -255,8 +256,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0021.md",
@@ -266,8 +267,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0022.md",
@@ -277,8 +278,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0023.md",
@@ -288,8 +289,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0024.md",
@@ -299,8 +300,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0025.md",
@@ -310,8 +311,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0026.md",
@@ -321,8 +322,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0027.md",
@@ -332,8 +333,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0028.md",
@@ -343,8 +344,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0029.md",
@@ -354,8 +355,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0030.md",
@@ -365,8 +366,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0031.md",
@@ -376,8 +377,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0032.md",
@@ -387,8 +388,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0033.md",
@@ -398,8 +399,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0034.md",
@@ -409,8 +410,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0035.md",
@@ -420,8 +421,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0036.md",
@@ -431,8 +432,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0037.md",
@@ -442,8 +443,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "section0039.md",
@@ -462,8 +463,7 @@
     "metadata": {
       "title": "Po nás ať přijde potopa!",
       "identifier": "3e2ad0d3-dc62-494d-ac82-df3cf19f664e",
-      "author": "František Gellner",
-      "modified": "2021-12-01T21:59:34.355Z"
+      "author": "František Gellner"
     },
     "chapters": [
       {
@@ -735,6 +735,6 @@
       "user": "books-are-next",
       "repo": "gellner-po-nas-at-prijde-potopa"
     },
-    "generatedAt": 1638395974702
+    "generatedAt": 1652022597696
   }
 }

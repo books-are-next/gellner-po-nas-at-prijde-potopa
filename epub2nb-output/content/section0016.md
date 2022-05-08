@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 ### TO JE TEĎ CELÁ MOUDROST MOJE
