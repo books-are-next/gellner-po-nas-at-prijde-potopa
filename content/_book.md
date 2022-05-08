@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Po nás ať přijde potopa!
@@ -9,7 +10,7 @@ meta:
   modified: '2021-11-24T07:58:23.968Z'
   languageCode: cs
   publisherShort: mkp
-  edition: beletrie
+  edition: ''
 readingOrder:
   - section0003.html
   - section0004.html
@@ -156,6 +157,7 @@ tocBase:
         title: EPILOG
         hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

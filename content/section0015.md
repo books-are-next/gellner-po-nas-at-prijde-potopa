@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 ### PO NÁS AT PŘIJDE POTOPA!
