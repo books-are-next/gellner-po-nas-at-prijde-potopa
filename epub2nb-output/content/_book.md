@@ -12,6 +12,7 @@ meta:
   publisherShort: mkp
   edition: ''
 readingOrder:
+  - promo.html
   - section0003.html
   - section0004.html
   - section0005.html
