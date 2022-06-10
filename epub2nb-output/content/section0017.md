@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### NA SOFA ZELENÉM
 
 Na sofa zeleném v zšeřelém kabinetu, 
@@ -20,3 +22,5 @@ ve svitech zjemnělých na sofa zeleném 
 O dálky průhledné! O něžný smutku ve mně! 
 
 O zlaté paprsky na moři ztišeném!
+
+</section>

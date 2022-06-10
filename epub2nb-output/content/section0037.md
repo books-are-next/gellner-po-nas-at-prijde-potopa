@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### EPILOG
 
 Ne, tohle není život, o němž pěly 
@@ -68,3 +70,5 @@ mé srdce divě život miluje. 
 Přes mrtvoly snů bolestná má touha 
 
 za novou fikcí v běh mne bičuje.
+
+</section>

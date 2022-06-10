@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### POZDRAV RODNÉMU KRAJI
 
 Den slunce je a vůně plný. 
@@ -44,3 +46,5 @@ pak spát zde budou v pokoji 
 a ještě vděčně ten kout světa 
 
 svou vlastní mrchou pohnojí.
+
+</section>

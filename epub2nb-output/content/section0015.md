@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PO NÁS AT PŘIJDE POTOPA!
 
 Vy dobří hoši, co jste vyšli bořit 
@@ -44,3 +46,5 @@ Z nás každý rád svou hřivnu zakopá. 
 My do svých vlasů vplétáme si růže, 
 
 a po nás – –! což – ať přijde potopa!
+
+</section>

@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PŘETÉKAJÍCÍ POHÁR
 
 Já držím pohár ve své dlani. 
@@ -36,3 +38,5 @@ jenž čeká na rty člověka. 
 Já držím pohár ve své dlani: 
 
 své srdce, které přetéká.
+
+</section>

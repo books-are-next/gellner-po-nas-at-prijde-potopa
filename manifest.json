@@ -7,8 +7,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "gellner-po-nas-at-prijde-potopa-4a5e9ab",
-  "revision": "4a5e9ab",
+  "identifier": "gellner-po-nas-at-prijde-potopa-5022484",
+  "revision": "5022484",
   "readingOrder": [
     "promo.html",
     "section0003.html",
@@ -49,8 +49,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:12:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368364075
+    "date": "Fri Jun 10 2022 17:49:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883399225
   },
   "documents": [
     {
@@ -768,9 +768,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 124,
-      "chars": 903,
-      "ideas": 14,
+      "words": 71,
+      "chars": 581,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "section0037.html",
@@ -788,9 +788,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3173,
-      "chars": 17894,
-      "ideas": 623
+      "words": 3120,
+      "chars": 17572,
+      "ideas": 616
     },
     "chapters": {
       "words": 3041,

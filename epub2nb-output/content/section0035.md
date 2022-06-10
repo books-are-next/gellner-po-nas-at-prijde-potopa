@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### NA DÁLNÉM JIHU SNAD
 
 Reflexy severu jsem vsál pletí pobledlou, 
@@ -36,3 +38,5 @@ je bytost, již bych mohl vášnivě milovat, 
 jež moji touhu mohla by zdusit zúplna, 
 
 brutální, silná, divá, jak zvíře smyslná.
+
+</section>

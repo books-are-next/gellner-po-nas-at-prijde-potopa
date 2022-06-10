@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### ELEGIE
 
 Vše zklamalo mne. Srdce žen mně milých, 
@@ -28,3 +30,5 @@ V mé pusté jizbě zima vane tmou. 
 Mně je tak smutno. Upracovanýma 
 
 rukama stiskni horkou hlavu mou!
+
+</section>

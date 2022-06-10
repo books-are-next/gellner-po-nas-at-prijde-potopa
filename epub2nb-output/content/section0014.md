@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### BEZCESTÍ
 
 Má nečinnost se mně již k smrti hnusí 
@@ -28,3 +30,5 @@ tak slinám světa nastavil bych líc 
 a s drzým smíchem, sukní vyzdviženou 
 
 své tělo šel bych prodat do ulic.
+
+</section>

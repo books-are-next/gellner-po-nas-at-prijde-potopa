@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### KÁZÁNÍ SPARTAKOVA
 
 #### I
@@ -106,3 +108,5 @@ si vpište do lebek! 
 Svým dětem kořist svou, ne tužeb lkáni 
 
 vhoďte do kolébek!
+
+</section>

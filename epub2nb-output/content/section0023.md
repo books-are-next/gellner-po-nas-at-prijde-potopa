@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PRO KLID SVÉ DUŠE
 
 Králové staří truchlí na svém trůně 
@@ -28,3 +30,5 @@ a nejvřelejší ženu vyberu. – 
 Vybízím vás, má drahá, vilná Fryno, 
 
 k jednomu tanci v tlamě kráteru. –
+
+</section>

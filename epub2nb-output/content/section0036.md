@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### NÁHLE SE ZACHVĚJE MÁ DUŠE
 
 Pro fixní ideje 
@@ -28,3 +30,5 @@ a pustým vystřízlivím 
 a mrtvým vznětům svým 
 
 se ironicky divím.
+
+</section>

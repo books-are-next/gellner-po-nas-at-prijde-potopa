@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PŘÁTELSTVÍ DUŠÍ
 
 Toužil jsem na své cestě osamělé 
@@ -20,3 +22,5 @@ za rok a za den při vzpomínce zíval. –
 Pro nový žal mám srdce málo smělé. 
 
 Má touha mře na cestě osamělé.
+
+</section>

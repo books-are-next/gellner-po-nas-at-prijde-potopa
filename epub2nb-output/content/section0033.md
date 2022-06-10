@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### BLASFÉMIE
 
 Dlouho to trvalo, než pravdy věčné 
@@ -28,3 +30,5 @@ k tomu mne pánbůh nemoh přinutit. 
 Jak divadelních dojmů pestrý nával 
 
 působí denní život na můj cit.
+
+</section>

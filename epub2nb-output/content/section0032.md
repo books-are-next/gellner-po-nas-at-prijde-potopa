@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### STÍSNĚNOST
 
 V mé hlavě ještě chaos bezradný je, 
@@ -28,3 +30,5 @@ s tupými smysly, mdlý a vysílen. 
 A tíseň spala. Oči upíral jsem 
 
 lhostejně v mroucí plamen svítilen.
+
+</section>

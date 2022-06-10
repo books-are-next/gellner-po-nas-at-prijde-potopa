@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### VZDUCHOPLAVEC
 
 Jak lovci rozstřílený dravec 
@@ -44,3 +46,5 @@ mu, kdo svou hroudu opouští! 
 Výsměšně: lidstvo, pokrok, věda 
 
 znělo to ledných do pouští.
+
+</section>

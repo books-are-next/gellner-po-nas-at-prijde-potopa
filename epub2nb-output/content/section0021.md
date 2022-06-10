@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PERSPEKTIVA
 
 Má milá rozmilá, neplakej! 
@@ -16,3 +18,5 @@ na naší bílé posteli!
 Zejtra, co zejtra? Kdožpak ví. 
 
 Zejtra si lehneme do rakví.
+
+</section>
