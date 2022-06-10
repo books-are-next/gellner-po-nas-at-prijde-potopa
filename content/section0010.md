@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### REFLEXE
 
 Noc temná je. V podkrovní světnici 
@@ -44,3 +46,5 @@ ať je jim světlo to signálem, 
 V tmách ulice po zdivu zvětralém 
 
 se krvavá reflexe smeká.
+
+</section>

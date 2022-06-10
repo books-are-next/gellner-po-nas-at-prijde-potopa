@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### NA DIVOU MONTAŇ ZŘEL JSEM SE ZÁPALEM
 
 Můj mladý věk tak do šestnácti roků! 
@@ -52,3 +54,5 @@ k snům svého mládí navrátím se zpět. 
 A budu z těch, jež ruka druhů vrhá 
 
 po vykonané práci do šachet.
+
+</section>

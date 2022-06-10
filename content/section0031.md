@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### SENTIMENTÁLNI ŽÁDOSTI
 
 Má touha rameno hubené 
@@ -28,3 +30,5 @@ krev v spáncích bije mi prudce. 
 ošklivě sahají v moje sny 
 
 Ivě bílé, panenské ruce.
+
+</section>

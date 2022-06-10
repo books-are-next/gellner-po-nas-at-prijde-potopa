@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### DEMASKOVANÁ LÁSKA
 
 Dobře jsem jed a dobře jsem pil 
@@ -44,3 +46,5 @@ vědom byl jsem si zcela. 
 Drzé své ruce jsem zahanben zdvih 
 
 tvého dívčího těla.
+
+</section>

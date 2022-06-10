@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### NOC BYLA TOUHOU PŘESYCENÁ
 
 Já nehledal jsem vilnou Frynu 
@@ -28,3 +30,5 @@ A já se zachvěl vědomím, 
 že srdce tvé jsem vznítil prvý 
 
 a že je prvý rozlomím.
+
+</section>

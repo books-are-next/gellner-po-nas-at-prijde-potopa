@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### A PŘECE ZDRÁHÁM SE
 
 Skleněná lahvička, a lebka na vinětě 
@@ -28,3 +30,5 @@ svým hrdlem proliti svůj doušek poslední. 
 Sny směšných zázraků mne uchlácholí vždycky, 
 
 a stesk můj udusí noc jedna výstřední.
+
+</section>

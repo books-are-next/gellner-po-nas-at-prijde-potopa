@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### VZPOMÍNKA
 
 Táhlo už k ránu. U stolů 
@@ -44,3 +46,5 @@ láskou svou byli jsme sami. – 
 vojáci taky tam chodili 
 
 se svými milenkami.
+
+</section>

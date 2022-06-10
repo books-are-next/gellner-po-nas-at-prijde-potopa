@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### SMUTEČNÍ
 
 Zbyla mně veteš vzpomínek, 
@@ -20,3 +22,5 @@ a já bych slzy proléval. 
 K úpadku spěje moje firma. 
 
 Pánbu mne pere všema čtyrma.
+
+</section>

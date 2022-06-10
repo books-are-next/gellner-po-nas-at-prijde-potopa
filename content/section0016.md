@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### TO JE TEĎ CELÁ MOUDROST MOJE
 
 To je teď celá moudrost moje: 
@@ -20,3 +22,5 @@ vínem si plašit z čela starost, 
 svůj život rychle utratit, 
 
 nic nezískat, nic neztratit.
+
+</section>

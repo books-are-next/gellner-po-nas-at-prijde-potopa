@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### JAKO TY POLNÍ ROSTLINY
 
 Nekrotím sfingu teoriemi 
@@ -28,3 +30,5 @@ Dech smrti duši mou nezjitří. 
 Žitím se protloukám, jak nejlíp mohu, 
 
 bez velkých nadějí do zítří.
+
+</section>

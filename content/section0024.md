@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PÍSEŇ
 
 Vím, skepse má je příliš tvrdá, 
@@ -28,3 +30,5 @@ soud bližních dobrý jako špatný. 
 Včas pole svá si pokosím. 
 
 A o pohřeb se neprosím.
+
+</section>

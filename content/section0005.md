@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### PÍSEŇ DOBRODRUHOVA
 
 Domov mých otců byl kdesi v dálce. 
@@ -44,3 +46,5 @@ mystickým orkánům v náručí klesnu,
 tajemným přerodům v náručí klesnu, 
 
 v nichž se má touha nezrcadlí.
+
+</section>

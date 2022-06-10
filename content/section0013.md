@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### NEDĚLE
 
 Slunce umírá s večerem. 
@@ -52,3 +54,5 @@ požitek z opilství kazí, 
 že marně vzněcuje člověk se, 
 
 když v duši skepse ho mrazí.
+
+</section>

@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### RUSÁ LÁSKA
 
 Má tlustá blondýnko! Má Ofélie, 
@@ -36,3 +38,5 @@ Za noci duše k smrti truchlivá je, 
 a Hamlet usne jak při krbu děcko 
 
 tvé teplé tělo bílé objímaje.
+
+</section>

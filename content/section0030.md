@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ### MILUJU SEVERNÍ NEBE
 
 Miluju severní nebe 
@@ -36,3 +38,5 @@ bázlivě stulené v tmách, 
 které prožívají své lásky 
 
 v snech a vzpomínkách.
+
+</section>
