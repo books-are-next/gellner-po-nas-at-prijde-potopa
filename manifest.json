@@ -7,8 +7,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "gellner-po-nas-at-prijde-potopa-5022484",
-  "revision": "5022484",
+  "identifier": "gellner-po-nas-at-prijde-potopa-02d834b",
+  "revision": "02d834b",
   "readingOrder": [
     "promo.html",
     "section0003.html",
@@ -49,8 +49,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:49:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883399225
+    "date": "Sat Jun 11 2022 11:58:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948714418
   },
   "documents": [
     {
