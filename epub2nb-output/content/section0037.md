@@ -15,6 +15,10 @@ ideje v představ žhavé orgii. 
 
 vysílení, která zabíjí.
 
+</section>
+
+<section>
+
 Mdlobu a hnus mně láska vstřikla do žil, 
 
 lítost, již marně ironizuju. 
@@ -22,6 +26,10 @@ lítost, již marně ironizuju. 
 Svatebních nocí, jež jsem kdysi prožil 
 
 svých předrážděných snech, teď lituju.
+
+</section>
+
+<section>
 
 Se srdcí závoj nekles pod mou rukou, 
 
@@ -31,6 +39,10 @@ Duše jak psi, jež pro zábavu tlukou, 
 
 před cynismem se do tmy přitiskly.
 
+</section>
+
+<section>
+
 Namísto vzdoru ohněm planoucího 
 
 i zvonů v bázni hřmících na poplach viděl 
@@ -38,6 +50,10 @@ i zvonů v bázni hřmících na poplach viděl 
 jsem skleslost davu stupidního, 
 
 žvýkajícího novinářský tlach.
+
+</section>
+
+<section>
 
 Z divadel dvorních nuda vyhnala mne, 
 
@@ -47,6 +63,10 @@ Z chansonet laxních bída řvala na mne 
 
 a z grimas duše, která krvácí.
 
+</section>
+
+<section>
+
 Doufal jsem v lásku, jež by sopkou vřela, 
 
 a v něžnou přízeň duší citlivých, 
@@ -55,6 +75,10 @@ a v něžnou přízeň duší citlivých, 
 
 a bujných retů rozpustilý smích.
 
+</section>
+
+<section>
+
 Naděje lhavé duši otrávily 
 
 a zoufalství se vrhlo na sousto. 
@@ -62,6 +86,10 @@ a zoufalství se vrhlo na sousto. 
 Jsem z těch, kterým svět podlamuje síly 
 
 a již se zříci ho přec nejsou s to.
+
+</section>
+
+<section>
 
 Mé srdce divě životu se rouhá, 
 

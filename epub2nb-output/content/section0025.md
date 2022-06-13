@@ -15,6 +15,10 @@ a zablácná promenáda 
 
 z dob, kdys mne ještě měla ráda.
 
+</section>
+
+<section>
+
 V městě teď bouří karneval, 
 
 a já bych slzy proléval. 

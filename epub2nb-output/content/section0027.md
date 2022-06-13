@@ -15,6 +15,10 @@ hladové vášně unavená bojem! 
 
 tvé srdce pláče teskným nepokojem.
 
+</section>
+
+<section>
+
 Nahrben Hamlet v lenošce sedí, 
 
 své žluté vlasy rukou hladí líně. 
@@ -23,6 +27,10 @@ Na rudé růže klidným zrakem hledí, 
 
 na rudé růže schnoucí na tvém klíně.
 
+</section>
+
+<section>
+
 Vše marno, Ofélie! Nerozpěje 
 
 se Hamlet sladkostí tvých bílých údů. 
@@ -30,6 +38,10 @@ se Hamlet sladkostí tvých bílých údů. 
 Zemdlením tělo tvé se nezachvěje 
 
 po divém tanci rozzuřených pudů.
+
+</section>
+
+<section>
 
 Však do kláštera nejdi prese všecko! 
 

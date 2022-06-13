@@ -15,6 +15,10 @@ Obilím táhnou dlouhé vlny 
 
 po lánech půdy úrodné.
 
+</section>
+
+<section>
+
 Můj rodný kraj! Chci v duši vtěsnat 
 
 požitek turisty a dost. 
@@ -22,6 +26,10 @@ požitek turisty a dost. 
 Vzpomínat hnusno. Dobře je snad, 
 
 že k srdci mému nepřirost.
+
+</section>
+
+<section>
 
 Láskou jej nezdravím, leč smíchem. 
 
@@ -31,6 +39,10 @@ jde měšťák s naduřelým břichem 
 
 se svojí tlustou samicí.
 
+</section>
+
+<section>
+
 Dost možná: Zde se narodili 
 
 a žili v tupém štěstí svém. 
@@ -38,6 +50,10 @@ a žili v tupém štěstí svém. 
 Několik bytů zalidnili 
 
 života schopným potomstvem.
+
+</section>
+
+<section>
 
 A až kdys naplní svá léta, 
 

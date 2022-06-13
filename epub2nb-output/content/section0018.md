@@ -15,6 +15,10 @@ Zřím bezstarostně na nebe a zemi 
 
 jako ty polní rostliny.
 
+</section>
+
+<section>
+
 Slunce se vlastním žárem svým spálí 
 
 a klasy zemrou, abych já žil. 
@@ -22,6 +26,10 @@ a klasy zemrou, abych já žil. 
 Jsou dálky, obzory, tesknící žaly, 
 
 abych se rytmem roztoužil.
+
+</section>
+
+<section>
 
 Oběti mé se nekouří k bohu. 
 

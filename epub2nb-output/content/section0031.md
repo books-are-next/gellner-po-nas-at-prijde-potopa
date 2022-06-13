@@ -15,6 +15,10 @@ Teplo zhaslého plamene 
 
 v studeném popeli hledá.
 
+</section>
+
+<section>
+
 Sentimentální žádosti 
 
 v duši mé křídloma tlukou. 
@@ -22,6 +26,10 @@ v duši mé křídloma tlukou. 
 Má touha pláče a tělu se mstí 
 
 třeštivou, horečnou mukou.
+
+</section>
+
+<section>
 
 štíři dneska zase nemocný. 
 

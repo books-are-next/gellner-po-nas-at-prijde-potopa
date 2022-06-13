@@ -15,6 +15,10 @@ své všechny naděje 
 
 na jednu sázím kartu.
 
+</section>
+
+<section>
+
 Pro fixní ideje 
 
 se biju v ohni prudkém. – 
@@ -22,6 +26,10 @@ se biju v ohni prudkém. – 
 Až náhle zachvěje 
 
 se duše trapným smutkem.
+
+</section>
+
+<section>
 
 Se srdcem vyprahlým 
 

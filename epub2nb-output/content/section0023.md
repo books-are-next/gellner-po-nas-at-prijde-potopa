@@ -15,6 +15,10 @@ sny básníků, jichž duše smutkem stůně, 
 
 se choře barví tesknou předtuchou.
 
+</section>
+
+<section>
+
 Rouhači skleslí staví bohu chrámy, 
 
 burzovní židi činí pokání, 
@@ -22,6 +26,10 @@ burzovní židi činí pokání, 
 hnilobný zápach prostopášné dámy 
 
 k potlačování vášně dohání.
+
+</section>
+
+<section>
 
 Pro klid své duše nejtěžší si víno 
 

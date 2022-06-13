@@ -15,6 +15,10 @@ i již zas tíseň bezdůvodná bije 
 
 údery těžkými mně do nitra.
 
+</section>
+
+<section>
+
 Načas jsem vínem utopil ji včera 
 
 a zpěvem srdce ohlušujícím, 
@@ -22,6 +26,10 @@ a zpěvem srdce ohlušujícím, 
 a hudbou hřmící do smutného šera, 
 
 a zrakem holky drze vábícím.
+
+</section>
+
+<section>
 
 A za svítání městem vrávoral jsem 
 

@@ -15,6 +15,10 @@ Po zvětralých zdech v pusté ulici 
 
 se reflexe krvavá smeká.
 
+</section>
+
+<section>
+
 Půjdou-li tudy potají 
 
 divocí komunardi, 
@@ -22,6 +26,10 @@ divocí komunardi, 
 kteří ve zbraních čekají, 
 
 až Nové Jitro se zardí,
+
+</section>
+
+<section>
 
 neb budou-li tudy před katem 
 
@@ -31,6 +39,10 @@ jež okovy šíleným záchvatem 
 
 o vládců drtily hlavy,
 
+</section>
+
+<section>
+
 neb jestliže hlouček tudy by táh 
 
 těch, kteří zbloudili z cesty, 
@@ -38,6 +50,10 @@ těch, kteří zbloudili z cesty, 
 neb samotný kdos, jenž v temnotách 
 
 vyřk kletbu nad spícími městy,
+
+</section>
+
+<section>
 
 ať je jim světlo to signálem, 
 

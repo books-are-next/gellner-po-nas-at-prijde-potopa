@@ -15,6 +15,10 @@ Vítězně se zadívá v mé oči 
 
 chiméra.
 
+</section>
+
+<section>
+
 Vytuším jí po bok šedna, 
 
 že se snášet začíná 
