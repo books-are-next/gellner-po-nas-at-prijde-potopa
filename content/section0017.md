@@ -15,6 +15,10 @@ líbal jsem její tvář a tenké pruhy retů 
 
 a spánky průsvitné jsem tiskl do dlaní.
 
+</section>
+
+<section>
+
 Na hlavě mojí se jí prsty třásly jemně 
 
 ve svitech zjemnělých na sofa zeleném 

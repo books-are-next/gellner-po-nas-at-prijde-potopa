@@ -15,6 +15,10 @@ a k práci své jsem vždy byl bez lásky. 
 
 své cíle, poměry a závazky!
 
+</section>
+
+<section>
+
 Však nově začít –je to bezvýsledné, 
 
 když zklamání mé všecko proklíná, 
@@ -22,6 +26,10 @@ když zklamání mé všecko proklíná, 
 a ruka moje, sotva že se zvedne, 
 
 již znavená mi padá do klína.
+
+</section>
+
+<section>
 
 A to vím jistě: Kdybych dnes byl ženou 
 

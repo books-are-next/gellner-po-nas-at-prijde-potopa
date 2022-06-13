@@ -15,6 +15,10 @@ Snažím se darmo nalézt zapomnění 
 
 pohledem dlouhým na dno poháru.
 
+</section>
+
+<section>
+
 Že ani jednu noc nebudeš mojí, 
 
 zoufalým výkřikem mou hlavou zní. 
@@ -22,6 +26,10 @@ zoufalým výkřikem mou hlavou zní. 
 (Tvá dušička se konsekvencí bojí!!) 
 
 Mým tělem třese záchvat nervózní.
+
+</section>
+
+<section>
 
 V mé krvi žádost tvého těla zpívá. 
 

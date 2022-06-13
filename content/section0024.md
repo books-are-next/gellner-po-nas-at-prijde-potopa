@@ -15,6 +15,10 @@ a výsměch zlý a rouhavý 
 
 extáze moje otráví.
 
+</section>
+
+<section>
+
 Rád v noci bdím a ve dne dřímám 
 
 a paradoxní názory mám. 
@@ -22,6 +26,10 @@ a paradoxní názory mám. 
 Své lásky k zášti přinutím
 
 a přátele si znechutím.
+
+</section>
+
+<section>
 
 Je pro mne málo směrodatný 
 

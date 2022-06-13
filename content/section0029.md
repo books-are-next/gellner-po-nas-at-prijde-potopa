@@ -15,6 +15,10 @@ Den ze dne s myšlenkou o onom lepším světě 
 
 já neznaboh se stávám více důvěrný.
 
+</section>
+
+<section>
+
 Chlebíček vezdejší a rozmnožení rodu 
 
 rád lidu zůstavím s instinkty zdravými, 
@@ -22,6 +26,10 @@ rád lidu zůstavím s instinkty zdravými, 
 a velké žádosti mé, jak sníh v kalnou vodu, 
 
 jak jen se dotknu jich, se mění v dlani mi.
+
+</section>
+
+<section>
 
 A přece zdráhám se, já piják notorický, 
 

@@ -15,6 +15,10 @@ Mně vášeň žádná duší vítězně nehřměla, 
 
 jen žhavé barvy snů mých bolestně setřela.
 
+</section>
+
+<section>
+
 Truchlivá moje láska v své něze dojemné 
 
 mé tělo vysiluje a enervuje mne, 
@@ -23,6 +27,10 @@ tesknoty sirný plamen horečně roznítí, 
 
 však mojí touze nikdy, té nedá zemříti.
 
+</section>
+
+<section>
+
 Nemožno, aby vzňaly mé srdce do žhavá 
 
 ty loutky, které matka s přívažkem prodává, 
@@ -30,6 +38,10 @@ ty loutky, které matka s přívažkem prodává, 
 a ženy, pro kus chleba co tělo ztřísnily, 
 
 a ty, jichž smysly bída a práce ztupily.
+
+</section>
+
+<section>
 
 Kdes v zemích bez kultury, na dálném jihu 
 
