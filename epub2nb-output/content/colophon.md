@@ -3,13 +3,13 @@ title: Tiráž
 ---
 
 Tento elektronický text vznikl ve spolupráci Městské knihovny v Praze a Centra pomoci pro zrakově postižené při občanském sdružení Integrace. Digitalizoval Jaroslav Procházka.  
-1. vydání z 13. 6. 2022.
+1. vydání z 14. 6. 2022.
 
 František Gellner    
 Po nás ať přijde potopa!  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 13. 6. 2022.
+1. vydání z 14. 6. 2022.
 
 ***
 
@@ -25,4 +25,4 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Pr
 
 Citační záznam této e-knihy:
 
-GELLNER, František. Po nás ať přijde potopa! \[online\].  Praha : Městská knihovna v Praze, 2011 \[cit. 13. 6. 2022]. Dostupné z: <next-book-url>
+GELLNER, František. Po nás ať přijde potopa! \[online\].  Praha : Městská knihovna v Praze, 2011 \[cit. 14. 6. 2022]. Dostupné z: <next-book-url>
