@@ -7,7 +7,8 @@
       "modified": "2021-11-24T07:58:23.968Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": ""
+      "edition": "poezie",
+      "contentType": "poetry"
     },
     "elements": {
       "title": "heading_id_2",
@@ -735,6 +736,6 @@
       "user": "books-are-next",
       "repo": "gellner-po-nas-at-prijde-potopa"
     },
-    "generatedAt": 1655271429466
+    "generatedAt": 1655364210195
   }
 }

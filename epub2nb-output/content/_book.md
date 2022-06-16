@@ -10,7 +10,8 @@ meta:
   modified: '2021-11-24T07:58:23.968Z'
   languageCode: cs
   publisherShort: mkp
-  edition: ''
+  edition: poezie
+  contentType: poetry
 readingOrder:
   - promo.html
   - section0003.html
