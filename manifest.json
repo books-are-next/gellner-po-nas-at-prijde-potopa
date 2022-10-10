@@ -7,8 +7,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "gellner-po-nas-at-prijde-potopa-e143e29",
-  "revision": "e143e29",
+  "identifier": "gellner-po-nas-at-prijde-potopa-bec2b3b",
+  "revision": "bec2b3b",
   "readingOrder": [
     "promo.html",
     "section0003.html",
@@ -49,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:02:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151348478
+    "date": "Mon Oct 10 2022 15:54:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417265747
   },
   "documents": [
     {
@@ -769,7 +769,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 154,
-      "chars": 1161,
+      "chars": 1165,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -789,7 +789,7 @@
   "totals": {
     "all": {
       "words": 3204,
-      "chars": 18158,
+      "chars": 18162,
       "ideas": 623
     },
     "chapters": {
